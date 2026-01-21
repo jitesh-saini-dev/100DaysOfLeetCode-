@@ -4,10 +4,13 @@ public:
         int countzero = 0;
         int countone = 0;
         int counttwo = 0;
-        for(auto x:nums){
-            if(x==0) countzero++;
-            else if(x==1) countone++;
-            else if(x==2) counttwo++;
+        for (auto x : nums) {
+            if (x == 0)
+                countzero++;
+            else if (x == 1)
+                countone++;
+            else if (x == 2)
+                counttwo++;
         }
         int i = 0;
         while (countzero != 0) {
