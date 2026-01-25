@@ -5,7 +5,7 @@ public:
         int maxsum = INT_MIN;
         for (auto x : nums) {
             sum += x;
-                        maxsum = max(sum, maxsum);
+            maxsum = max(sum, maxsum);
 
             if (sum < 0) {
                 sum = 0;
