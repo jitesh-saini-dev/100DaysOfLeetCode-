@@ -37,7 +37,7 @@ Stay tuned for more solutions!
 👤 Author
 
 Jitesh Saini
-🔗 GitHub: https://github.com/Jitesh-Saini
+🔗 GitHub: https://github.com/jitesh-saini-dev
 
 
 ⭐ Support
